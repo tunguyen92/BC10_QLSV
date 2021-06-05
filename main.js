@@ -2,6 +2,10 @@
 var dssv = new DanhSachSinhVien();
 var validation = new Validation();
 
+function addUser() {
+  console.log("Đây là addUser đã làm xong");
+}
+
 function getEle(id) {
   return document.getElementById(id);
 }
