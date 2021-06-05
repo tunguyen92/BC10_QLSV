@@ -3,11 +3,7 @@ var dssv = new DanhSachSinhVien();
 var validation = new Validation();
 
 function addUser() {
-<<<<<<< HEAD
   console.log("Đây là addUser đã làm xong của tu2");
-=======
-  console.log("Đây là addUser đã làm xong");
->>>>>>> main
 }
 
 function getEle(id) {
